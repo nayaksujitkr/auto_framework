@@ -1,0 +1,26 @@
+mt2_cs_n1:
+            'hostname': 'ewr-cs-n1.mediamath.com'
+            'username': 'snayak'
+            'password': 'sujit'
+            'port': 722
+mt2_cs_n2:
+            'hostname': 'ewr-cs-n2.mediamath.com'
+            'username': 'snayak'
+            'password': 'sujit'
+            'port': 722
+mt2_cs_n3:
+            'hostname': 'ewr-cs-n3.mediamath.com'
+            'username': 'snayak'
+            'password': 'sujit'
+            'port': 722
+mt2_cs_n4:
+            'hostname': 'ewr-cs-n4.mediamath.com'
+            'username': 'snayak'
+            'password': 'sujit'
+            'port': 722
+pixel_mt3:
+            'hostname': 'ewr-cs-n3.mediamath.com'
+            'username': 'pixel'
+            'password': 'sujit'
+            'port': 722
+            'pkeyfile': 'C:\\Users\\snayak\\.ssh\\id_boot2docker'
